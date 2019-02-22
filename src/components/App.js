@@ -1,3 +1,4 @@
+import "./App.css";
 import "./VideoItem.css";
 import React from "react";
 import SearchBar from "./SearchBar";
