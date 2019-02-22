@@ -1,3 +1,5 @@
+I followed along with Stephen Grider in creating this video search React App. Click here to see the final version: [Video Search App](https://modest-meninsky-9a8103.netlify.com/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
